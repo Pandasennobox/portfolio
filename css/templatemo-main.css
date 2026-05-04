@@ -752,12 +752,14 @@ body.lb-disable-scrolling {
   font-size: 24px;
   font-weight: 500;
   color: #fff;
+  text-align: center;
 }
 .service-content .center-text .line-dec {
   width: 45px;
   height: 3px;
   background-color: #272bff;
   margin: 20px 0px 20px 0px;
+  text-align: center;
 }
 
 .service-content .center-text p {
@@ -774,6 +776,7 @@ body.lb-disable-scrolling {
   margin: 15px 0px;
   font-weight: 600;
   color: #fff;
+  text-align: center;
 }
 
 .service-content .center-text .primary-button {
@@ -783,7 +786,8 @@ body.lb-disable-scrolling {
     width: 45px;
     height: 3px;
     background-color: #4727ff;
-    margin: 20px auto 20px auto;
+    margin: auto auto;
+    text-align: center;
   }
 
   .service-content .center-text ul {
